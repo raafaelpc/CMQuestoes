@@ -13,8 +13,10 @@ pode ser encontrada na matriz A.
 As matrizes que foram utilizadas como respostas das questões estão declaradas no codigo.
 
 Questão 1:
-![image](https://github.com/raafaelpc/CMQuestoes/assets/80062189/e5b7da4f-d18c-4ea6-970c-fe674a33aaae)
+![image](https://github.com/raafaelpc/CMQuestoes/assets/80062189/cbdaef6c-98f3-4635-a2b8-3c4e5069b400)
+
 Questão2:
-![image](https://github.com/raafaelpc/CMQuestoes/assets/80062189/24fc8b42-60a3-443d-aab1-cf4b299b7598)
+![image](https://github.com/raafaelpc/CMQuestoes/assets/80062189/2d12746a-dc6a-4b7c-bf1d-204eea6f175e)
+
 
 
